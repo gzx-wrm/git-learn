@@ -1,2 +1,2 @@
 file2
-modified
+echo from branch2
